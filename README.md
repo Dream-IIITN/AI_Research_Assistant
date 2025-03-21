@@ -33,13 +33,22 @@ An AI-driven research assistant that retrieves, filters, and analyzes academic p
 _Add screenshots of the UI/CLI results here._
 
 1. **Research Query Input:**  
-   ![Screenshot 1](path/to/screenshot1.png)  
+Input text prompt on the topic you want to work on!
+   ![Step 1](/images/step_1.png)  
+Output will contain 5 semantically related Research Papers
+   ![Sol 1](/images/1_sol.png) 
 
 2. **Tool Execution & RAG Processing:**  
-   ![Screenshot 2](path/to/screenshot2.png)  
+Now select the Research Paper from above 5 and input its ID to process it.
+   ![Step 2](/images/step2.png) 
+The Research Paper will be downloaded and stored in chunks and processed. 
+   ![Sol 2](/images/2_sol.png)  
 
 3. **Generated Research Report:**  
-   ![Screenshot 3](path/to/screenshot3.png)  
+Input a final Text prompt for your Report Work based on the Research Paper Selected
+   ![Step 3](/images/step3.png)  
+Here is the final Output with Introduction, Abstract & Methodology
+   ![Sol 3](/images/3_final.png)
 
 ---
 
