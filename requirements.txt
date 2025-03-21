@@ -1,0 +1,10 @@
+streamlit
+requests
+serpapi
+langchain
+langgraph
+chromadb
+sentence-transformers
+pandas
+langchain_core
+langchain_groq
