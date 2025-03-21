@@ -2,7 +2,7 @@
 
 An AI-driven research assistant that retrieves, filters, and analyzes academic papers, web content, and knowledge sources to generate structured research reports.
 
-![Project Logo](path/to/logo.png)  
+ 
 
 ---
 
