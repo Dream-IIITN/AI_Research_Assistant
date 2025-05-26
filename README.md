@@ -20,7 +20,7 @@ An AI-driven research assistant that retrieves, filters, and analyzes academic p
 |-----------------|---------------------|
 | **Programming Language** | Python |
 | **Frameworks & Libraries** | LangChain, LangGraph |
-| **LLM & AI Models** | OpenAI API / Custom LLM |
+| **LLM & AI Models** | Ollama Custom LLM |
 | **Database / Vector Store** | ChromaDB (if used) |
 | **APIs & Tools** | Arxiv API, Web Search API |
 | **Backend Architecture** | FastAPI / Flask (if applicable) |
@@ -28,6 +28,9 @@ An AI-driven research assistant that retrieves, filters, and analyzes academic p
 | **Version Control & Deployment** | GitHub, Docker (if applicable) |
 
 ---
+## Output demo 
+complee video input on given topic
+![Final Video Ouput][https://drive.google.com/file/d/19zFeyE8Dt-AL1In6ENDQfUGUB0t1vjU3/view?usp=sharing)
 
 ## 📸 **Screenshots**
 _Add screenshots of the UI/CLI results here._
